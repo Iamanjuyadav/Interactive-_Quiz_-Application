@@ -1,9 +1,17 @@
-nteractive Quiz Application
+# Interactive Quiz Application
 
 ##
 📌 Purpose
 
 This project is a web-based quiz app built with HTML, CSS, and JavaScript. It was created to practice DOM manipulation, event handling, arrays/objects, and conditional logic in JavaScript, while giving users a fun way to test their knowledge.
+
+## [Watch Live](https://iamanjuyadav.github.io/Todo_List_App/)
+### Building a Todo List App from Scratch | HTML, CSS, JavaScript 
+
+
+![preview img](/preview.png)
+
+
 
 ##
 Features
@@ -24,9 +32,6 @@ Extra Challenges (Optional)
 3.Randomized questions for replayability.
 
 4.Local storage to save high scores.
-
-##
-
 
 
 ##
