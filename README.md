@@ -6,7 +6,7 @@ This project is designed to give you practical experience with JavaScript, DOM m
 
 This project is a web-based quiz app built with HTML, CSS, and JavaScript. It was created to practice DOM manipulation, event handling, arrays/objects, and conditional logic in JavaScript, while giving users a fun way to test their knowledge.
 
-## [Watch Live](https://iamanjuyadav.github.io/Todo_List_App/)
+## [Watch Live](https://iamanjuyadav.github.io/Interactive-_Quiz_-Application/)
 ### Building a Interactive_Quiz_Application_Website from Scratch | HTML, CSS, JavaScript 
 
 
